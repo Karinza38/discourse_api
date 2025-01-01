@@ -1,4 +1,4 @@
-# DiscourseApi
+ # DiscourseApi
 
 The Discourse API gem allows you to consume the Discourse API
 
